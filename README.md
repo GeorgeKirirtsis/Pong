@@ -5,7 +5,6 @@
 
 
 
-Retro Pong Game written in C using Sdl 2
 
 Implemented Basic Collision Detection And Paddle Controls: 
 
@@ -17,5 +16,7 @@ Unix-Like :
 $ make
 
 Windows :
-good luck 🤷‍♂️ probably try building under WSL and using an X environment to pass graphics through.
+🤷‍♂️ probably try building under WSL and using an X environment to pass graphics through.
+
+! You need to download and link sdl2 in the lib directory in order to excecute the game !
 
